@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# 프로젝트 폴더 기준으로 Intermediate/Saved 전체 무시
+/VRTeam3/Intermediate/
+/VRTeam3/Saved/
